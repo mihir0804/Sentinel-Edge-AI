@@ -15,7 +15,8 @@
 
 It utilizes the **Qwen 2.5 (1.5B)** quantized model, optimized via **System Prompt Engineering** to achieve high-accuracy threat classification (SQLi, XSS, RCE) on consumer hardware with < 4GB RAM.
 
-![Dashboard Preview](<img width="1903" height="953" alt="image" src="https://github.com/user-attachments/assets/ef929b57-0394-4465-ae41-03a1f27d5fe4" />
+![Dashboard Preview](<img width="1872" height="942" alt="Dashboard_Screenshot_Of_Sentinel Edge AI" src="https://github.com/user-attachments/assets/4a23ee68-5ad7-432a-bdf9-f962ac9683c4" />
+
 )
 
 
