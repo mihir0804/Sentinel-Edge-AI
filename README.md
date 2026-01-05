@@ -15,7 +15,9 @@
 
 It utilizes the **Qwen 2.5 (1.5B)** quantized model, optimized via **System Prompt Engineering** to achieve high-accuracy threat classification (SQLi, XSS, RCE) on consumer hardware with < 4GB RAM.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="1903" height="953" alt="image" src="https://github.com/user-attachments/assets/ef929b57-0394-4465-ae41-03a1f27d5fe4" />
+)
+
 
 ---
 
